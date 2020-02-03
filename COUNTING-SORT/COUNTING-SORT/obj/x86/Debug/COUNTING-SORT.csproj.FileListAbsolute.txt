@@ -1,0 +1,5 @@
+c:\users\glaiza\documents\visual studio 2010\Projects\COUNTING-SORT\COUNTING-SORT\bin\Debug\COUNTING-SORT.exe
+c:\users\glaiza\documents\visual studio 2010\Projects\COUNTING-SORT\COUNTING-SORT\bin\Debug\COUNTING-SORT.pdb
+c:\users\glaiza\documents\visual studio 2010\Projects\COUNTING-SORT\COUNTING-SORT\obj\x86\Debug\COUNTING-SORT.exe
+c:\users\glaiza\documents\visual studio 2010\Projects\COUNTING-SORT\COUNTING-SORT\obj\x86\Debug\COUNTING-SORT.pdb
+C:\Users\glaiza\documents\visual studio 2010\Projects\COUNTING-SORT\COUNTING-SORT\obj\x86\Debug\COUNTING-SORT.csprojResolveAssemblyReference.cache
