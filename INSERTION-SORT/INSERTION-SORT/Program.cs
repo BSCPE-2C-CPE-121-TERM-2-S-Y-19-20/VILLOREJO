@@ -65,7 +65,8 @@ class InsertionSort {
 
         Console.WriteLine("Sorted Array;");
 
-        printArray(arr); 
+        printArray(arr);
+        Console.Read();
 
     } 
 } 
