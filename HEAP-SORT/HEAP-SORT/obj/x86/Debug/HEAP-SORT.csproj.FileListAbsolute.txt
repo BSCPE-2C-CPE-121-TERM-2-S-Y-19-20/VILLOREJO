@@ -1,0 +1,5 @@
+c:\users\glaiza\documents\visual studio 2010\Projects\HEAP-SORT\HEAP-SORT\bin\Debug\HEAP-SORT.exe
+c:\users\glaiza\documents\visual studio 2010\Projects\HEAP-SORT\HEAP-SORT\bin\Debug\HEAP-SORT.pdb
+c:\users\glaiza\documents\visual studio 2010\Projects\HEAP-SORT\HEAP-SORT\obj\x86\Debug\HEAP-SORT.exe
+c:\users\glaiza\documents\visual studio 2010\Projects\HEAP-SORT\HEAP-SORT\obj\x86\Debug\HEAP-SORT.pdb
+C:\Users\glaiza\documents\visual studio 2010\Projects\HEAP-SORT\HEAP-SORT\obj\x86\Debug\HEAP-SORT.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+c:\users\glaiza\documents\visual studio 2010\Projects\INSERTION-SORT\INSERTION-SORT\bin\Debug\INSERTION-SORT.exe
+c:\users\glaiza\documents\visual studio 2010\Projects\INSERTION-SORT\INSERTION-SORT\bin\Debug\INSERTION-SORT.pdb
+c:\users\glaiza\documents\visual studio 2010\Projects\INSERTION-SORT\INSERTION-SORT\obj\x86\Debug\INSERTION-SORT.exe
+c:\users\glaiza\documents\visual studio 2010\Projects\INSERTION-SORT\INSERTION-SORT\obj\x86\Debug\INSERTION-SORT.pdb

@@ -1,0 +1,4 @@
+c:\users\glaiza\documents\visual studio 2010\Projects\QUICK-SORT\QUICK-SORT\bin\Debug\QUICK-SORT.exe
+c:\users\glaiza\documents\visual studio 2010\Projects\QUICK-SORT\QUICK-SORT\bin\Debug\QUICK-SORT.pdb
+c:\users\glaiza\documents\visual studio 2010\Projects\QUICK-SORT\QUICK-SORT\obj\x86\Debug\QUICK-SORT.exe
+c:\users\glaiza\documents\visual studio 2010\Projects\QUICK-SORT\QUICK-SORT\obj\x86\Debug\QUICK-SORT.pdb

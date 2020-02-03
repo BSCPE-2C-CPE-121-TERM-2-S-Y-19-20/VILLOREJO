@@ -1,0 +1,4 @@
+c:\users\glaiza\documents\visual studio 2010\Projects\SHELL-SORT\SHELL-SORT\bin\Debug\SHELL-SORT.exe
+c:\users\glaiza\documents\visual studio 2010\Projects\SHELL-SORT\SHELL-SORT\bin\Debug\SHELL-SORT.pdb
+c:\users\glaiza\documents\visual studio 2010\Projects\SHELL-SORT\SHELL-SORT\obj\x86\Debug\SHELL-SORT.exe
+c:\users\glaiza\documents\visual studio 2010\Projects\SHELL-SORT\SHELL-SORT\obj\x86\Debug\SHELL-SORT.pdb

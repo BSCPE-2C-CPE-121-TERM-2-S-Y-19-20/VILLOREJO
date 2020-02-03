@@ -1,0 +1,4 @@
+c:\users\glaiza\documents\visual studio 2010\Projects\SELECTION-SORT\SELECTION-SORT\bin\Debug\SELECTION-SORT.exe
+c:\users\glaiza\documents\visual studio 2010\Projects\SELECTION-SORT\SELECTION-SORT\bin\Debug\SELECTION-SORT.pdb
+c:\users\glaiza\documents\visual studio 2010\Projects\SELECTION-SORT\SELECTION-SORT\obj\x86\Debug\SELECTION-SORT.exe
+c:\users\glaiza\documents\visual studio 2010\Projects\SELECTION-SORT\SELECTION-SORT\obj\x86\Debug\SELECTION-SORT.pdb
