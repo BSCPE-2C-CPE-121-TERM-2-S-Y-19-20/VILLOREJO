@@ -1,4 +1,0 @@
-c:\users\glaiza\documents\visual studio 2010\Projects\MERGE-SORT\MERGE-SORT\bin\Debug\MERGE-SORT.exe
-c:\users\glaiza\documents\visual studio 2010\Projects\MERGE-SORT\MERGE-SORT\bin\Debug\MERGE-SORT.pdb
-c:\users\glaiza\documents\visual studio 2010\Projects\MERGE-SORT\MERGE-SORT\obj\x86\Debug\MERGE-SORT.exe
-c:\users\glaiza\documents\visual studio 2010\Projects\MERGE-SORT\MERGE-SORT\obj\x86\Debug\MERGE-SORT.pdb
